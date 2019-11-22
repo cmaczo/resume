@@ -65,22 +65,18 @@
   ],
   "education": [
     {
-      "institution": "University of California, Berkeley - School of Information",
-      "area": "User Experience Research",
+      "institution": "University of California, Berkeley",
+      "area": "School of Information",
       "studyType": "Master of Information Management and Systems",
-      "startDate": "",
-      "endDate": "",
-      "gpa": "",
-      "courses": []
+      "startDate": "2012-08",
+      "endDate": "2008-05"
     },
     {
       "institution": "Carleton College",
       "area": "Psychology",
-      "studyType": "Bachelor of Arts (B.A.)",
-      "startDate": "",
-      "endDate": "",
-      "gpa": "",
-      "courses": []
+      "studyType": "Bachelor of Arts (summa cum laude)",
+      "startDate": "2008-08",
+      "endDate": "2012-05"
     }
   ]
 }
