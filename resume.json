@@ -1,17 +1,15 @@
 {
   "basics": {
     "name": "Colin MacArthur",
-    "label": "Head of Design Research at the Canadian Digital Service",
-    "picture": "",
-    "email": "",
-    "phone": "",
+    "email": "colinpmacarthur@fastmail.fm",
+    "phone": "617-652-1419",
     "website": "http://www.colinmacarthur.org/",
     "summary": "",
     "location": {
-      "address": "Ottawa, Ontario, Canada",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "US",
+      "address": "1691 rue Logan",
+      "postalCode": "H2L 1Y1",
+      "city": "Montréal",
+      "countryCode": "Canada",
       "region": ""
     },
     "profiles": [
