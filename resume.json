@@ -73,15 +73,14 @@
   "education": [
     {
       "institution": "University of California, Berkeley",
-      "area": "School of Information",
-      "studyType": "Master of Information Management and Systems",
+      "studyType": "Master of Information Management",
       "startDate": "2012-08-01",
       "endDate": "2008-05-01"
     },
     {
       "institution": "Carleton College",
       "area": "Psychology",
-      "studyType": "Bachelor of Arts (summa cum laude)",
+      "studyType": "Bachelor of Arts",
       "startDate": "2008-08-01",
       "endDate": "2012-05-01"
     }
