@@ -16,7 +16,6 @@
   "work": [
     {
       "company": "The Canadian Digital Service",
-      "endDate": "",
       "highlights": [
         "Doubled (on average) the frequency of product research, and, in turn, how often teams ship user-ready features.",
         "Coached researchers to use GitHub, advocate for agile and contiuous delivery, and lead quantitative measurement.",
@@ -25,21 +24,22 @@
         "Hired a diverse team using bias-reducing tools now replicated by other communities.'"
       ],
       "position": "Head of Design Research",
-      "startDate": "2018-10"
+      "startDate": "2018-10-01",
+      "endDate": "2018-10-01"
     },
     {
       "company": "Center for Civic Design",
-      "endDate": "2018-10",
+      "endDate": "2018-10-01",
       "highlights": [
         "Led research on automatic voter registration that led to thousands more registered voters in several states.",
         "Facilitated discussions that created organizational principles, success measures and other operational processes."
       ],
       "position": "Civic researcher",
-      "startDate": "2017-11"
+      "startDate": "2017-11-01"
     },
     {
       "company": "18F",
-      "endDate": "2017-11",
+      "endDate": "2017-11-01",
       "highlights": [
         "Led the 18F research guild setting professional standards for research, mentoring researchers and facilitating professional development opportunities. Recruited and trained additional guild leads.",
         "Product managed climate data discovery and prototyping for the White House Office of Science and Technology Policy, NASA and NOAA.",
@@ -47,27 +47,27 @@
         "Co-led research and design for the U.S. Web Design Standards, now used by 50+ government websites and described in the Atlantic as 'making the U.S. government’s websites less sucky.'"
       ],
       "position": "Innovation specialist (Experience design team)",
-      "startDate": "2015-05"
+      "startDate": "2015-05-01"
     },
     {
       "company": "Almond Consultants",
-      "endDate": "2015-03",
+      "endDate": "2015-03-01",
       "position": "Principal consultant",
-      "startDate": "2014-06",
+      "startDate": "2014-06-01",
       "highlights": ["Ran independent, profitable consultancy that conducted design research for federal and non-profit clients."]
     },
     {
       "company": "36 Views",
-      "endDate": "2014-03",
+      "endDate": "2014-03-01",
       "position": "User experience researcher, product strategy",
-      "startDate": "2013-05",
+      "startDate": "2013-05-01",
       "highlights": ["Led customer research and lean startup cycle that identified multi-million dollar market opportunities."]
     },
     {
       "company": "U.S. National Park Service",
-      "endDate": "2011-08",
+      "endDate": "2011-08-01",
       "position": "Technology team leader",
-      "startDate": "2007-08",
+      "startDate": "2007-08-01",
       "highlights": ["Supervised seasonal teams building websites and other technologies that netted parks over $50k in new grant funding and reached thousands of visitors."]
     }
   ],
@@ -76,15 +76,15 @@
       "institution": "University of California, Berkeley",
       "area": "School of Information",
       "studyType": "Master of Information Management and Systems",
-      "startDate": "2012-08",
-      "endDate": "2008-05"
+      "startDate": "2012-08-01",
+      "endDate": "2008-05-01"
     },
     {
       "institution": "Carleton College",
       "area": "Psychology",
       "studyType": "Bachelor of Arts (summa cum laude)",
-      "startDate": "2008-08",
-      "endDate": "2012-05"
+      "startDate": "2008-08-01",
+      "endDate": "2012-05-01"
     }
   ]
 }
