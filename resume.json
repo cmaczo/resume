@@ -11,14 +11,7 @@
       "city": "Montréal",
       "countryCode": "Canada",
       "region": ""
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "colinpmacarthur",
-        "url": "https://www.linkedin.com/in/colinpmacarthur/"
-      }
-    ]
+    }
   },
   "work": [
     {
@@ -62,7 +55,6 @@
       "summary": null
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "University of California, Berkeley - School of Information",
@@ -83,21 +75,6 @@
       "courses": []
     }
   ],
-  "awards": [
-    {
-      "title": "Superior Performance Award",
-      "date": "2012-08-31",
-      "awarder": "U.S. Department of the Interior",
-      "summary": "Award for technology development leadership at Bandelier National Monument."
-    },
-    {
-      "title": "Special Thanks for Achieving Results Award",
-      "date": "2007-08-31",
-      "awarder": "National Park Service",
-      "summary": "For automated visitor counting and backcountry management system at Bandelier National Monument."
-    }
-  ],
-  "publications": [],
   "skills": [
     {
       "name": "User Experience Testing",
@@ -163,19 +140,6 @@
       "name": "Project Management",
       "level": "",
       "keywords": []
-    }
-  ],
-  "languages": [
-    {
-      "language": "en",
-      "fluency": "Native Speaker"
-    }
-  ],
-  "interests": [],
-  "references": [
-    {
-      "name": "Billy Griffin",
-      "reference": "If I had to name the five best people I've ever worked with, Colin would be among them. In our work together at 18F, I learned a tremendous amount from Colin about what good user research and design actually looks like and how to execute it effectively. And one of the best things about him is that he not only can execute those competencies himself, he's also so good at helping those around him grow and develop. He exhibits just the right mix of empathy alongside high expectations for himself and others, and helps keep everyone focused on the humans at the core of human centered design. I hope to work with Colin again in the future, and if you get to work with him, you'll understand quickly how lucky you are. "
     }
   ]
 }
