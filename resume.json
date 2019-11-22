@@ -25,10 +25,12 @@
     {
       "company": "Center for Civic Design",
       "endDate": "2018-10",
-      "highlights": [],
-      "position": "Civic Researcher",
-      "startDate": "2017-11",
-      "summary": null
+      "highlights": [
+        "Led research on automatic voter registration that led to thousands more registered voters in several states.",
+        "Facilitated discussions that created organizational principles, success measures and other operational processes."
+      ],
+      "position": "Civic researcher",
+      "startDate": "2017-11"
     },
     {
       "company": "18F",
