@@ -17,10 +17,15 @@
     {
       "company": "The Canadian Digital Service",
       "endDate": "",
-      "highlights": [],
+      "highlights": [
+        "Doubled (on average) the frequency of product research, and, in turn, how often teams ship user-ready features.",
+        "Coached researchers to use GitHub, advocate for agile and contiuous delivery, and lead quantitative measurement.",
+        "Selected and coached the first line manager within a delivery community.",
+        "Convened government-wide design research community of practice events participants describe as 'best in class'.",
+        "Hired a diverse team using bias-reducing tools now replicated by other communities.'"
+      ],
       "position": "Head of Design Research",
-      "startDate": "2018-10",
-      "summary": null
+      "startDate": "2018-10"
     },
     {
       "company": "Center for Civic Design",
