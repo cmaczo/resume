@@ -33,10 +33,14 @@
     {
       "company": "18F",
       "endDate": "2017-11",
-      "highlights": [],
-      "position": "Innovation Specialist (Experience Design Team)",
-      "startDate": "2015-05",
-      "summary": null
+      "highlights": [
+        "Led the 18F research guild setting professional standards for research, mentoring researchers and facilitating professional development opportunities. Recruited and trained additional guild leads.",
+        "Product managed climate data discovery and prototyping for the White House Office of Science and Technology Policy, NASA and NOAA.",
+        "Brokered complex, multi-stakeholder design decisions on products for the Consumer Financial Protection Bureau, Forest Service, and other governmet agencies.",
+        "Co-led research and design for the U.S. Web Design Standards, now used by 50+ government websites and described in the Atlantic as 'making the U.S. government’s websites less sucky.'"
+      ],
+      "position": "Innovation specialist (Experience design team)",
+      "startDate": "2015-05"
     },
     {
       "company": "Almond Consultants",
